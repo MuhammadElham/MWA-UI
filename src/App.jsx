@@ -1,11 +1,11 @@
+import Card1 from "./components/Card1";
 
 function App() {
-
   return (
     <>
-    <p className="text-white bg-red-800 text-center py-8 text-4xl md:text-9xl font-bold">App Download it</p>
+      <Card1 />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
