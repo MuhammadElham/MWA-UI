@@ -30,6 +30,7 @@ This component displays:
 
 ## 🌍 Live Preview  
 Check out the deployed version here: [mwa-ui.vercel.app](https://mwa-ui.vercel.app/) 🚀  
+Check out the deployed version here: [mwa-ui.vercel.app](https://mwa-productlisting.vercel.app/) 🚀  
 
 ## 📬 Get in Touch  
 For any inquiries or collaborations, feel free to connect:  
