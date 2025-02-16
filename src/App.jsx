@@ -1,9 +1,9 @@
-import Card1 from "./components/Card1";
+import Product from "./components/Product";
 
 function App() {
   return (
     <>
-      <Card1 />
+      <Product/>
     </>
   );
 }
