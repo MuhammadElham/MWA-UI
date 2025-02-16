@@ -29,8 +29,8 @@ This component displays:
    cd your-repo-folder
 
 ## 🌍 Live Preview  
-Check out the deployed version here: [mwa-ui.vercel.app](https://mwa-ui.vercel.app/) 🚀  
-Check out the deployed version here: [mwa-ui.vercel.app](https://mwa-productlisting.vercel.app/) 🚀  
+Check out Task1:(Card) : [mwa-ui.vercel.app](https://mwa-ui.vercel.app/) 🚀  
+Check out Task2:(Product Listing): [mwa-ui.vercel.app](https://mwa-productlisting.vercel.app/) 🚀  
 
 ## 📬 Get in Touch  
 For any inquiries or collaborations, feel free to connect:  
